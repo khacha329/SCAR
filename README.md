@@ -24,6 +24,9 @@ This project is an example to how an IoT application could be upgraded to augmen
 9. Once your augmented reality SmartCampus is set up you can visualise the network by pressing the connect button
 10. On next run of the app disable all quads and press Find Nodes button to locate the previously set sensors and gateways in your smartcampus directly.
 
+Find here zip file for a set-up unity project on unity 2021.2.16f - https://unioulu-my.sharepoint.com/:u:/g/personal/kchakal22_univ_yo_oulu_fi/EcccgQC-sQxOidUY1wVzdPABOG-_cq_rxggEThBeTZdamA?e=3eM8YW 
+(link walid till 30 March 2024)
+
 ## The application should look like something like this
 ![Screenshot](WithHoloSquares.jpg)
 
