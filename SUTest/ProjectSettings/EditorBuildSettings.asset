@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project Files/Scenes/SCAR Application.unity
+    guid: d42a352dc9a8c4d4990a924687759199
+  - enabled: 0
+    path: Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Experimental - ExamplesHub/Scenes/MRTKExamplesHubMainMenu.unity
+    guid: 63a00118e809c754f9c7911bb85d635f
+  - enabled: 0
+    path: Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Experimental - MixedRealityKeyboard/Scenes/MixedRealityKeyboardExample.unity
+    guid: b21a91f417fdc7b41b531772ff092fcb
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f7162787d52dc8a4888660cba164cd0e, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: fdeff2387506c4748964179ff7f0f764, type: 2}
